@@ -1,0 +1,34 @@
+.cnn {
+    width: 200px;
+    position: absolute;
+    top: 45%;
+    left: 52%;
+    cursor: pointer;
+}
+
+.globo {
+    width: 200px;
+    position: absolute;
+    top: 42%;
+    left: 63%;
+    cursor: pointer;
+}
+
+
+.nytimes {
+    width: 200px;
+    top: 45%;
+    left: 75%;
+    position: absolute;
+    cursor: pointer;
+}
+
+
+.bbc {
+    position: absolute;
+    cursor: pointer;
+
+    top: 45%;
+    left: 85%;
+    width: 200px;
+}
